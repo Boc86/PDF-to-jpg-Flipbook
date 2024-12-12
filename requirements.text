@@ -1,7 +1,6 @@
 fitz
-PyMuPDF
+pymupdf
 streamlit
-PIL
 tempfile
 shutil
 traceback
