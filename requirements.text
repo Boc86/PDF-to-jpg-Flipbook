@@ -1,0 +1,7 @@
+PyMuPDF
+streamlit
+PIL
+tempfile
+shutil
+traceback
+logging
