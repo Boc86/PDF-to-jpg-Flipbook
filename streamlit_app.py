@@ -1,4 +1,5 @@
 import os
+import fitz  # PyMuPDF
 import streamlit as st
 from PIL import Image
 import tempfile
@@ -6,7 +7,6 @@ import shutil
 import traceback
 import logging
 import sys
-from pymupdf import fitz
 
 # Configure logging
 def setup_logging(temp_folder):
